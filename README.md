@@ -1,2 +1,3 @@
 # COVID-19-Vaccination
-Sentiment Analysis
+
+## COVID Vaccination Sentiment Analysis of Reddit posts and comments
